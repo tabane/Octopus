@@ -1,0 +1,3 @@
+[submodule "cache"]
+	path = Component/Cache
+	url = https://github.com/tabane/cache.git
